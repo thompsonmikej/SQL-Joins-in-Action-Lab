@@ -33,8 +33,8 @@ Learn to write and run essential SQL queries for real-world database scenarios. 
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/thompsonmikej/SQL_in_Action_Starter.git
-cd SQL_in_Action_Starter
+- git clone https://github.com/thompsonmikej/SQL_in_Action_Starter.git
+- cd SQL_in_Action_Starter
 
 2. **Set up your SQL environment:**
 - Install your preferred RDBMS (MySQL, PostgreSQL, SQLite, etc.)
